@@ -1,0 +1,46 @@
+_repo: Thirty-Canadian-V.Cs.-23d-April-1915-to-30th-March-1918_40649
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Goodridge Roberts, Theodore
+    aliases:
+    - Roberts, Theodore Goodridge
+    - Roberts, T. G. (Theodore Goodridge)
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '7525'
+    url: http://www.gutenberg.org/2009/agents/7525
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Goodridge_Roberts
+  - agent_name: Canadian War Records Office
+    aliases:
+    - Office, Canadian War Records
+    - Canada. Department of Militia and Defence. Canadian War Records Office
+    - Canada. Office of Canadian War Records
+    - Canada. Bureau canadien des archives de guerre
+    gutenberg_agent_id: '42104'
+    url: http://www.gutenberg.org/2009/agents/42104
+  - agent_name: Martin, Stuart, Military Historian
+    gutenberg_agent_id: '35453'
+    url: http://www.gutenberg.org/2009/agents/35453
+  - agent_name: Richards, Robin
+    gutenberg_agent_id: '40748'
+    url: http://www.gutenberg.org/2009/agents/40748
+description: ''
+gutenberg_issued: '2012-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40649'
+  lccn: '19005636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Canada'
+- !lcc 'D501'
+- !lcsh 'Victoria Cross'
+title: Thirty Canadian V.Cs., 23d April 1915 to 30th March 1918
+url: http://www.gutenberg.org/ebooks/40649
